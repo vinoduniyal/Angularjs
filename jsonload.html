@@ -16,7 +16,7 @@
 <script>
 var app = angular.module('httptest', []);
 app.controller('getjson', ['$scope','$http', function ($scope, $http) {
-        $http.get('https://codepen.io/anon/pen/LVEwdw.js').success(function (res) {
+        $http.get('sampledata.json').success(function (res) {
             $scope.data = res;
         });
     }
