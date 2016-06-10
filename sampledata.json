@@ -1,0 +1,20 @@
+[
+  {
+    "nama": "Maria Belen",
+    "alamat": "Spanyol",
+    "pictures": [
+      "small.png",
+      "medium.png",
+      "big.png"
+    ]
+  },
+  {
+    "nama": "Betty La Fea",
+    "alamat": "Spanyol",
+    "pictures": [
+      "small.png",
+      "medium.png",
+      "big.png"
+    ]
+  }
+]
